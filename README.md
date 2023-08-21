@@ -1,8 +1,6 @@
 This is the *Static Code Analyzer* project I made myself.
 <p>In this project, you will create a simple static analyzer tool that finds common stylistic issues in Python code. You will get a general idea of static code analysis and expand your competence in Python.</p>
 
-Certainly! Below is a simple Markdown documentation that describes the purpose and functionality of this code, outlining the key components.
-
 ---
 # Python Code Analyzer
 
